@@ -1,4 +1,4 @@
 
-minor cleanup
-jGdyIddxpMv2iiW65WRu8CJ6wF99ML
-2018-02-21T19:37:06Z
+docs tweak
+pK9bsyLMJF5HVvGgeokuFoAOChTmmd
+2018-10-25T05:53:58Z
